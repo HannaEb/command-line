@@ -1,0 +1,1 @@
+The mv command moves files or directories. It takes two parameters, the file to be moved/it's location and where it is moved to. If mv is run without location/destination it renames the file or directory.
